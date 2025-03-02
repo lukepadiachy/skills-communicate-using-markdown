@@ -11,3 +11,8 @@
 ```csharp
 string name = "Luke";
 ```
+
+- [x] Created Headings
+- [x] Added a Image
+- [x] Added Code block
+- [ ] Move onto next step 
